@@ -1,0 +1,72 @@
+.hght{
+	height:1500px;
+}
+
+#Grenk{
+	background-color:#66cc66;
+}
+
+.padGirisUye{
+	padding-top:0px;
+}
+
+#menuyazi{
+	color:#800000;
+	font-size:14pt;	
+}
+
+#haberyazi{
+	color:#800000;
+}
+
+#haberbg{
+	background-color:#C0C0C0;
+}
+
+.padleftTH{
+	padding-left:90px;
+	padding-top:100px;
+	padding-bottom:50px;
+}
+
+.padtHaber{
+	padding-top:75px;
+}
+
+.padtIletisim{
+	padding-top:110px;
+	padding-left:200px;
+	padding-bottom:50px;
+}
+
+.padtResim{
+	padding-top:100px;
+	padding-left:50px;
+}
+
+.padtGiris{
+	padding-top:75px;
+	padding-left:100px;
+}
+
+.sliderMargTop{
+	margin-top:70px;
+}
+
+.padTopLeft{
+	padding-top:25px;
+	padding-left:230px;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+/*	max-height:400px */
+}
+
+.padtl{
+	padding-top: 60px;
+	padding-left: 60px;
+}
